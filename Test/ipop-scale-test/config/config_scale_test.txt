@@ -1,0 +1,25 @@
+#<operation> <user> <ip_address>
+#configure-external-node
+#check-vpn-mode
+#install-support-serv
+#prep-def-container
+#containers-create
+#containers-update
+#containers-start
+#containers-stop
+#containers-del
+#ipop-start
+#ipop-stop
+#ipop-tests
+#ipop-status
+#visualizer-start
+#visualizer-stop
+#visualizer-status 
+#logs
+#mode
+#help
+#
+#
+#
+help lmn 10.0.2.15
+help dfe 10.0.2.4
